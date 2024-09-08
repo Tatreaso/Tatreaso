@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Roland]
+# Hi there! 👋 I'm **Roland**
 
 Welcome to my GitHub profile! I'm a student at Debreceni SZC Mechwart András School of Machinery and Informatics. 
 Here, you'll find some of the projects I'm working on.
